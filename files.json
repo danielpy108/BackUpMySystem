@@ -1,0 +1,11 @@
+{
+    "backup" : [
+    	"__Niflheim__", 
+    	"Pictures", 
+    	"PycharmProjects"
+    ],
+    "ignore" : [
+    	"venv", 
+    	"__pycache__"
+    ]
+}
